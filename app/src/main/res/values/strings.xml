@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tela Rolavel</string>
+    <string name="lbl_conteudo">Texto de entrada</string>
+    <string name="lbl_entrada">Adicionar texto</string>
+</resources>
